@@ -1,0 +1,2 @@
+# Gujarati-Character-Recognition
+This project done by Harsh Nagoriya classifies printed or digitized Gujarati characters. Gujarati belongs to the genre of Devanagri scripts from the Indian subcontinent. The sample and test images for the characters were obtained from digital images available on the Internet and from scanned images of printed Gujarati text. For their classification, Convolutional neural netwrok classifiers were used with relu and softmax activations. Accuracy of the classifier and identifier is found to be around 99.63%. 
